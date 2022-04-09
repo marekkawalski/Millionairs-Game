@@ -1,0 +1,25 @@
+			Leaderboard
+Player's name: Marek
+You have: 1.000.000
+Your game took 2 minutes 36 seconds
+
+Player's name: Mama
+You have: 1.000.000
+Your game took 3 minutes 48 seconds
+
+Player's name: mmm
+You have: 1.000$
+Your game took 0 minutes 28 seconds
+
+Player's name: dasdasd
+You have: 1.000$
+Your game took 0 minutes 18 seconds
+
+Player's name: mmmm
+You have: 0.00$
+Your game took 0 minutes 3 seconds
+
+Player's name: sadads
+You have: 1.000.000
+Your game took 0 minutes 52 seconds
+

@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+  funkcje.c
+D:\Studia\studia 3 semestr\PK\Pk2\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(12,2): error C2143: błąd składniowy: brakuje „;” przed „if”
+D:\Studia\studia 3 semestr\PK\Pk2\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(128,12): warning C4098: "give_us_random_question": funkcja "void" zwraca wartość
+D:\Studia\studia 3 semestr\PK\Pk2\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(239,27): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+D:\Studia\studia 3 semestr\PK\Pk2\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(253,12): warning C4098: "give_us_random_question": funkcja "void" zwraca wartość
+D:\Studia\studia 3 semestr\PK\Pk2\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(368,12): warning C4098: "sub_menu": funkcja "void" zwraca wartość
+D:\Studia\studia 3 semestr\PK\Pk2\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(416,33): warning C4047: "funkcja": "const char *" różni się w poziomach operatorów pośrednich od "char **"
+D:\Studia\studia 3 semestr\PK\Pk2\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(416,25): warning C4024: "fopen": różne typy dla formalnego i rzeczywistego parametru 1
+D:\Studia\studia 3 semestr\PK\Pk2\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(420,11): warning C4098: "write_to_file": funkcja "void" zwraca wartość
+D:\Studia\studia 3 semestr\PK\Pk2\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(607,22): warning C4133: "=": niezgodne typy - od "leaderboard *" do "quest *"
+D:\Studia\studia 3 semestr\PK\Pk2\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(609,13): warning C4133: "=": niezgodne typy - od "quest *" do "leaderboard *"
